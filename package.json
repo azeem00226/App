@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://azeem00226.github.io/app",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    
+  },
+  "description": ""
+}
